@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的世界服务器[教程]</title>
+      <link href="/p/59c603e8.html"/>
+      <url>/p/59c603e8.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="服务器常见问题"><a href="#服务器常见问题" class="headerlink" title="服务器常见问题"></a>服务器常见问题</h1><h2 id="1-启动器启动失败"><a href="#1-启动器启动失败" class="headerlink" title="1.启动器启动失败"></a>1.启动器启动失败</h2><p><img src="https://pic1.imgdb.cn/item/636fc22b16f2c2beb1947afd.jpg" alt="启动失败"></p><p>如图所示，可能为以下原因：</p><ol><li>输入的账号或密码错误。</li><li>登录尝试过于频繁，导致被暂时屏蔽。请不要操作，等待10分钟后再试。</li><li>只注册了账号，但没有在皮肤站新建角色。</li></ol><h2 id="2-无法连接服务器"><a href="#2-无法连接服务器" class="headerlink" title="2.无法连接服务器"></a>2.无法连接服务器</h2><p><img src="https://pic1.imgdb.cn/item/636fc39316f2c2beb19c47b0.jpg" alt="无法连接至服务器"></p><p>服务器启用了身份验证，你可以使用以下任一方法</p><ol><li><p>适用于<strong>非正版</strong>用户：使用皮肤站登录启动器</p><p>注册皮肤站并验证邮箱，将蓝色按钮拖入启动器</p><p><img src="https://pic1.imgdb.cn/item/636fc61c16f2c2beb1a4fe5e.jpg" alt="皮肤站"></p></li><li><p>适用于<strong>正版</strong>用户：使用有正版的微软账号登录游戏</p></li></ol><p><img src="https://pic1.imgdb.cn/item/636fc87816f2c2beb1a950c9.png" alt="正版"></p><h2 id="3-看不懂游戏菜单内的英文"><a href="#3-看不懂游戏菜单内的英文" class="headerlink" title="3.看不懂游戏菜单内的英文"></a>3.看不懂游戏菜单内的英文</h2><p>请使用翻译</p><h2 id="4-等待补充"><a href="#4-等待补充" class="headerlink" title="4.等待补充"></a>4.等待补充</h2><p>请联系群主</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 我的世界 </tag>
+            
+            <tag> 服务器 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/p/456825.html"/>
+      <url>/p/456825.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
